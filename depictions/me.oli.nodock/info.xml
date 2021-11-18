@@ -1,0 +1,23 @@
+<package>
+	<id>me.oli.nodock</id>
+	<name>NoDock</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>13-14</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>A simple tweak to hide the dock background</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

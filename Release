@@ -3,6 +3,6 @@ Label: Oliver's repo
 Suite: stable
 Version: 1.0
 Codename: ios
-Achitecture: iphoneos-arm
+Achitectures: iphoneos-arm
 components: main
 Description: A place for Oliver's tweaks!

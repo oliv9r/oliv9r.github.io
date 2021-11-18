@@ -1,8 +1,8 @@
 body {
-    margin: 1em;
+    margin: 2em;
 }
 .card {
-    margin-bottom: 1em;
+    margin-bottom: 2em;
 }
 .thumbnail {
     margin-bottom: 2em;;
@@ -21,16 +21,16 @@ body {
     text-align: left;
 }
 .link-item:hover {
-    border: 1px solid #ddd;
+    border: 1px solid #242736;
     background-color: #3d4695;
 }
 
 html.can-touch .link-item:hover{ /* disable hover effect when input is touch */
-    background-color: #fff;
+    background-color: #242736;
 }
 
 html.can-touch .link-item:active{ /* disable hover effect when input is touch */
-    background-color: ##3d4695;
+    background-color: #3d4695;
 }
 
 .fa {
@@ -41,23 +41,24 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
 
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: #1f1f1f;
-        color: white;
+        background-color: #242736;
+        color: white
+        ;
     }
 
     .card-header {
-        background-color: #393D54;        ;
+        background-color: #6D4D73;
     }
     .card-body {
-        background-color: #393D54;        ;
+        background-color: #6D4D73;        ;
     }
     .jumbotron {
-        background-color: #393D54;
+        background-color: #6D4D73;
     }
 
     .list-group-item {
-        background-color: #393D54;
-        border-color:  #4d5373;
+        background-color: #662a68;
+        border-color:  #242736;
     }
 
     html.can-touch .link-item:hover{ /* disable hover effect when input is touch */
@@ -65,7 +66,7 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
     }
     
     html.can-touch .link-item:active{ /* disable hover effect when input is touch */
-        background-color: #48275B;
+        background-color: #cabcd3;
     }
 
 }

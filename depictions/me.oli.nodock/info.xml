@@ -15,7 +15,7 @@
 	<descriptionlist>
 		<description>A simple tweak to hide the dock background</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>../depictions/me.oli.nodock/Screens/nodockenabled.png</screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>

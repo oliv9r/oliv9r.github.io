@@ -1,0 +1,24 @@
+<package>
+	<id>me.oli.spotimusicmask.n95themepack</id>
+	<name>SpotiMusic Mask</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<minIOS>13.0</minIOS>
+			<maxiOS>14.8</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>An Apple Music inspired mask for Spotify</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

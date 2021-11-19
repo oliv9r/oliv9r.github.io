@@ -47,17 +47,17 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
     }
 
     .card-header {
-        background-color: #6D4D73;
+        background-color: #242736;
     }
     .card-body {
-        background-color: #6D4D73;        ;
+        background-color: #242736;        ;
     }
     .jumbotron {
-        background-color: #6D4D73;
+        background-color: #242736;
     }
 
     .list-group-item {
-        background-color: #6D4D73;
+        background-color: #242736;
         border-color:  #242736;
     }
 
